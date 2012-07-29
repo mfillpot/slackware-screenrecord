@@ -1,0 +1,1 @@
+The included script can be used to record screen actions, webcam output and capture microphone audio directly into audio and video files using ffmpeg. It currently requires a new custom build of ffmpeg and some additional libraries which will be announced when you run it. All video is captured at the maximum available resolution.
